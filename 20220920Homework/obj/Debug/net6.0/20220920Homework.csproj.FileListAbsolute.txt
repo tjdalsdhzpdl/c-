@@ -1,0 +1,15 @@
+D:\3학년 2학기\소프트웨어개발환경\20220920Homework\20220920Homework\bin\Debug\net6.0\20220920Homework.exe
+D:\3학년 2학기\소프트웨어개발환경\20220920Homework\20220920Homework\bin\Debug\net6.0\20220920Homework.deps.json
+D:\3학년 2학기\소프트웨어개발환경\20220920Homework\20220920Homework\bin\Debug\net6.0\20220920Homework.runtimeconfig.json
+D:\3학년 2학기\소프트웨어개발환경\20220920Homework\20220920Homework\bin\Debug\net6.0\20220920Homework.dll
+D:\3학년 2학기\소프트웨어개발환경\20220920Homework\20220920Homework\bin\Debug\net6.0\20220920Homework.pdb
+D:\3학년 2학기\소프트웨어개발환경\20220920Homework\20220920Homework\obj\Debug\net6.0\20220920Homework.csproj.AssemblyReference.cache
+D:\3학년 2학기\소프트웨어개발환경\20220920Homework\20220920Homework\obj\Debug\net6.0\20220920Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\3학년 2학기\소프트웨어개발환경\20220920Homework\20220920Homework\obj\Debug\net6.0\20220920Homework.AssemblyInfoInputs.cache
+D:\3학년 2학기\소프트웨어개발환경\20220920Homework\20220920Homework\obj\Debug\net6.0\20220920Homework.AssemblyInfo.cs
+D:\3학년 2학기\소프트웨어개발환경\20220920Homework\20220920Homework\obj\Debug\net6.0\20220920Homework.csproj.CoreCompileInputs.cache
+D:\3학년 2학기\소프트웨어개발환경\20220920Homework\20220920Homework\obj\Debug\net6.0\20220920Homework.dll
+D:\3학년 2학기\소프트웨어개발환경\20220920Homework\20220920Homework\obj\Debug\net6.0\refint\20220920Homework.dll
+D:\3학년 2학기\소프트웨어개발환경\20220920Homework\20220920Homework\obj\Debug\net6.0\20220920Homework.pdb
+D:\3학년 2학기\소프트웨어개발환경\20220920Homework\20220920Homework\obj\Debug\net6.0\20220920Homework.genruntimeconfig.cache
+D:\3학년 2학기\소프트웨어개발환경\20220920Homework\20220920Homework\obj\Debug\net6.0\ref\20220920Homework.dll
